@@ -1,4 +1,4 @@
-# SonarQube Scanning using Docker Compose
+# SonarQube Scanning using Docker Compose 
 
 [![YouTube Video](./thumbnail.svg)](https://youtu.be/UoAfU5iAhl0)
 >**NOTE**: This image above is clickable, click it to look at the YouTube video!
@@ -87,5 +87,6 @@ Compose works in all environments; production, staging, development, testing, as
     ```text
     $ docker system prune -a -f
     ```
+    updating just for testing
 
     >**NOTE**: You'll thank me later!
